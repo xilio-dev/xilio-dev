@@ -1,4 +1,4 @@
-😊 My online name is xilio and my Github name is stackoak.
+😊 Hi. My English online name is xilio
 
 ## My Project
 
