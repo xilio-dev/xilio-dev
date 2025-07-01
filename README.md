@@ -6,7 +6,7 @@
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20XILIO&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 
- <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/hand_v.png" align="right" height="275" /></a>
+ <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/assets/hand_v.png" align="right" height="275" /></a>
 
 </p>  
 
@@ -72,8 +72,6 @@
  <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/assets/laptop.png" align="right" height="200" /></a>
 
 
-![](cat-typing.gif)
-<img src="./assets/party-furby.gif" align="right" width="60">
-
+![](assets/cat-typing.gif)
  
  
