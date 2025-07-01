@@ -3,6 +3,9 @@
 <a href="https://github.com/xilio-dev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20xilio&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
+
+ <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/hand_v.png" align="right" height="275" /></a>
+
 </p>  
 
 <p align="left">
@@ -65,7 +68,12 @@
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xilio-dev&count_private=true&show_icons=true&include_all_commits=true)
+ <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/laptop.png" align="right" height="200" /></a>
 
 
+
+
+ [![Profile last updated](https://img.shields.io/github/last-commit/xilio-dev/xilio-dev/main?label=Last%20updated&style=flat)](https://github.com/xilio-dev/xilio-dev/commits)
+
+  <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/think.png" align="right" height="150" /></a>
  
-
