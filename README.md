@@ -66,13 +66,12 @@
 </a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xilio-dev&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xilio-dev&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
  <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/laptop.png" align="right" height="200" /></a>
 
 
 ![](cat-typing.gif)
 <img src="party-furby.gif" align="right" width="60">
 
- [![Profile last updated](https://img.shields.io/github/last-commit/xilio-dev/xilio-dev/main?label=Last%20updated&style=flat)](https://github.com/xilio-dev/xilio-dev/commits)
-<a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/think.png" align="right" height="150" /></a>
+ 
  
