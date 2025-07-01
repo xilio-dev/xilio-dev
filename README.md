@@ -1,7 +1,9 @@
-# Hi there 👋
-<p align="left">
+<h1 align="center">Hi 👋, I'm xilio</h1>
+<h3 align="center">A passionate fullstack developer from China</h3>
+
+<p align="center">
 <a href="https://github.com/xilio-dev/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20xilio&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20XILIO&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 
  <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/hand_v.png" align="right" height="275" /></a>
@@ -12,10 +14,10 @@
 <a href="https://github.com/xilio-dev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=China&fill=black">
 </a>
-<a href="https://github.com/xilio-dev/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
-</a>
+ 
 </p>
+
+
 
 ## Things I use on a daily basis
 
@@ -38,8 +40,6 @@
 <a href="https://github.com/xilio-dev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=go&svgfill=cd6799">
 </a>
-
-
   <a href="https://github.com/xilio-dev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> 
@@ -58,7 +58,6 @@
 <a href="https://github.com/xilio-dev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
 </a>
- 
 <a href="https://github.com/xilio-dev/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker">
 </a>
@@ -71,9 +70,9 @@
  <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/laptop.png" align="right" height="200" /></a>
 
 
-
+![](cat-typing.gif)
+<img src="party-furby.gif" align="right" width="60">
 
  [![Profile last updated](https://img.shields.io/github/last-commit/xilio-dev/xilio-dev/main?label=Last%20updated&style=flat)](https://github.com/xilio-dev/xilio-dev/commits)
-
-  <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/think.png" align="right" height="150" /></a>
+<a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/think.png" align="right" height="150" /></a>
  
