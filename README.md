@@ -12,7 +12,7 @@
 
 <p align="left">
 <a href="https://github.com/xilio-dev/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=China&fill=black">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Full-stack%20Engineer%20&location=China&fill=black">
 </a>
  
 </p>
